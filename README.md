@@ -1,6 +1,7 @@
 # JiraProject-Snapshot
 A screenshot of Jira Project
-![Uploading Screenshot 2024-01-30 at 6.09.01 pm.png…]()
+<img width="1427" alt="Screenshot 2024-01-30 at 6 09 01 pm" src="https://github.com/nehapradhan/JiraProject-Snapshot/assets/32742603/d0c4c342-3126-425d-90fa-6d6e7a85e54c">
+
 
 Dear Mia, 
   
