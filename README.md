@@ -3,6 +3,8 @@ A screenshot of Jira Project
 <img width="1427" alt="Screenshot 2024-01-30 at 6 09 01 pm" src="https://github.com/nehapradhan/JiraProject-Snapshot/assets/32742603/d0c4c342-3126-425d-90fa-6d6e7a85e54c">
 
 An email to follow up with the client to discuss the deliverables of the project
+
+
 Dear Mia, 
   
 I trust this email finds you in good health and high spirits. Thank you for taking out time for the online meeting today to discuss the requirements for revamping your restaurant.  
